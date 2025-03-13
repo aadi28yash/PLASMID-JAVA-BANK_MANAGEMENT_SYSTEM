@@ -16,7 +16,7 @@ class Bank {
 				// TODO Auto-generated catch block
 				e.printStackTrace();
 			}
-            connection = DriverManager.getConnection("jdbc:mysql://localhost:3306/bank", "root", "RiyaKushwah88198");
+            connection = DriverManager.getConnection("jdbc:mysql://localhost:3306/bank", "root", "AdityaChauhan");
         } catch (SQLException e) {
             e.printStackTrace();
         }
